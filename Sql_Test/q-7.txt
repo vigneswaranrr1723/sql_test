@@ -1,0 +1,2 @@
+ENTITIES 
+customer_name,customer_id,Account_Number,Account_status,Account_type,Balance_amount,Transaction_amount,Transcation_channel,Transaction_Date,purch_am
